@@ -1,0 +1,11 @@
+# Compiled java classes
+*.class
+bin
+# Eclipse files
+.classpath
+.settings
+.project
+# Netbeans file
+manifest.mf
+nbproject
+build.xml
